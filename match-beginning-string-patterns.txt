@@ -1,0 +1,3 @@
+let rickyAndCal = "rickyAndCal";
+let calRegex = /^Cal/; // Change this line
+let result = calRegex.test(rickyAndCal);
